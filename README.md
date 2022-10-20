@@ -6,7 +6,7 @@ An API for a social network web application where users can share their thoughts
 
 ## Usage
 
-Video: 
+Thought: 
 
 The following image shows the application's appearance and functionality:
 
